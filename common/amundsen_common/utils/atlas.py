@@ -36,6 +36,7 @@ class AtlasTableTypes:
     database = 'Database'
     schema = 'Schema'
     source = 'Source'
+    watermark = 'TablePartition'
 
 
 class AtlasDashboardTypes:
