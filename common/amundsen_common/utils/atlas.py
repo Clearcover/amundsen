@@ -26,10 +26,16 @@ class AtlasCommonTypes:
     bookmark = 'Bookmark'
     user = 'User'
     reader = 'Reader'
+    cluster = 'Cluster'
+    application = 'Application'
 
 
 class AtlasTableTypes:
     table = 'Table'
+    column = 'Column'
+    database = 'Database'
+    schema = 'Schema'
+    source = 'Source'
 
 
 class AtlasDashboardTypes:
